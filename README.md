@@ -1,5 +1,6 @@
-### Hi there 👋
-
+## Hi there, I'm Pavel 👋
+### Technology stack
+Python, Django, DjangoREST, SQL, Postgres, JWT, Docker, Nginx, Gunicorn, Git, Pytest
 <!--
 **LuckyPoRus/LuckyPoRus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
